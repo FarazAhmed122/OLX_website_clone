@@ -1,0 +1,14 @@
+.sell{
+    
+    border-top: 6px solid rgb(0, 238, 255);
+    border-left: 6px solid yellow;
+    border-bottom: 6px solid blue;
+    border-right: 6px solid red;
+}
+#icn{
+    height: 47px;
+    background-color: black;
+    padding: 12px 15px;
+    border-end-end-radius: 5px;
+    border-start-end-radius: 5px;
+}
